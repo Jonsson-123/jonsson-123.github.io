@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Jonsson-123.github.io/static/css/main.b8e04efa.css",
-    "main.js": "/Jonsson-123.github.io/static/js/main.6265bceb.js",
-    "static/js/453.42568bda.chunk.js": "/Jonsson-123.github.io/static/js/453.42568bda.chunk.js",
-    "index.html": "/Jonsson-123.github.io/index.html",
-    "main.b8e04efa.css.map": "/Jonsson-123.github.io/static/css/main.b8e04efa.css.map",
-    "main.6265bceb.js.map": "/Jonsson-123.github.io/static/js/main.6265bceb.js.map",
-    "453.42568bda.chunk.js.map": "/Jonsson-123.github.io/static/js/453.42568bda.chunk.js.map"
+    "main.css": "/static/css/main.b8e04efa.css",
+    "main.js": "/static/js/main.8b0a7cd4.js",
+    "static/js/453.42568bda.chunk.js": "/static/js/453.42568bda.chunk.js",
+    "index.html": "/index.html",
+    "main.b8e04efa.css.map": "/static/css/main.b8e04efa.css.map",
+    "main.8b0a7cd4.js.map": "/static/js/main.8b0a7cd4.js.map",
+    "453.42568bda.chunk.js.map": "/static/js/453.42568bda.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.b8e04efa.css",
-    "static/js/main.6265bceb.js"
+    "static/js/main.8b0a7cd4.js"
   ]
 }
